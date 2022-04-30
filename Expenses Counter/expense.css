@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: green;
+    
+}
+div{
+    text-align: center;
+}
+input{
+    margin-bottom: 10px;
+}
+table{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+th{
+    text-align: left;
+    
+}
+table, th, td {
+    border: 2px solid;
+    border-collapse: collapse;
+    text-align: left;
+}
+td{
+    background-color: rgb(204, 204, 204);
+}
+button{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
